@@ -1,3 +1,3 @@
-[submodule "web/typo3conf/ext/my_site_package/doodle"]
-	path = web/typo3conf/ext/my_site_package/doodle
+[submodule "web/typo3conf/ext/survey"]
+	path = web/typo3conf/ext/survey
 	url = https://github.com/lieskpat/ltsaDoodleExtension.git

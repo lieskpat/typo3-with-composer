@@ -13,5 +13,10 @@
 			"cms-package-dir": "{$vendor-dir}/typo3/cms",
 			"web-dir": "web"
 		}
+	},
+	"autoload": {
+		"psr-4": {
+			"Schmidtch\\Survey\\": "web/typo3conf/ext/survey/Classes/"
+		}
 	}
 }

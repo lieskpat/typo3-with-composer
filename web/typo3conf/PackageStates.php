@@ -240,6 +240,12 @@ return [
             'packagePath' => 'typo3/sysext/viewpage/',
             'suggestions' => [],
         ],
+        'survey' => [
+            'composerName' => 'survey',
+            'state' => 'active',
+            'packagePath' => 'typo3conf/ext/survey/',
+            'suggestions' => [],
+        ],
         'adodb' => [
             'composerName' => 'typo3/cms-adodb',
             'state' => 'inactive',

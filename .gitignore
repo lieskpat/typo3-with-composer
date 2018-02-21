@@ -18,6 +18,7 @@ typo3_src
 
 /web/typo3conf/ext/*
 !/web/typo3conf/ext/my_site_package
+!/web/typo3conf/ext/survey
 
 /web/fileadmin/*
 !/web/fileadmin/.gitkeep

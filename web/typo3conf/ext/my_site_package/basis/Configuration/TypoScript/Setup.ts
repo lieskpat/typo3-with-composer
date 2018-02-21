@@ -14,7 +14,7 @@ config {
         contentObjectExceptionHandler = 0
 }
 
-lib.content =< styles.content.get
+lib.content < styles.content.get
 lib.content {
         select.where = colPos = {field: colPos}
         select.where.insertData = 1

@@ -9,8 +9,8 @@
 
 #| --- Page Config ------------------------------------------------------------------------------------ |#
 config {
-        concatenateCss = 1
-        compressCSS = 1
+        concatenateCss = 0
+        compressCSS = 0
         contentObjectExceptionHandler = 0
 }
 
